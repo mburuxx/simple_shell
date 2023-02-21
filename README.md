@@ -309,7 +309,7 @@ $
 ```
 
 
-## Authors ##
+## Authors :black_nib:
 
-* John Mburu
-* Brian Karimi
+* <a href="https://github.com/Brianm011"> Brian Karimi </a>
+* <a href="https://github.com/mburuxx"> John Mburu </a>
