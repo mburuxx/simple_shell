@@ -50,6 +50,6 @@ The following built-ins are supported by the hsh shell:
 ## Return Value
 Hsh shell will exit with status 0 unless status is specified with syntax `exit VALUE`.
 
-## Authors : black nib:
+## Authors :black_nib:
 * <a href="https://github.com/Brianm011"> Brian Karimi </a>
 * <a href="https://github.com/mburuxx"> John Mburu </a>
