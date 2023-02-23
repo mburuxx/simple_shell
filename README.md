@@ -51,5 +51,5 @@ The following built-ins are supported by the hsh shell:
 Hsh shell will exit with status 0 unless status is specified with syntax `exit VALUE`.
 
 ## Authors
-* Daniel Musau
-* Carol Waithaka
+* Brian Karimi
+* John Mburu
