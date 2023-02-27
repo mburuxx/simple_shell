@@ -14,10 +14,10 @@ Once compiled to start the program , run:
 To exit the shell run:
 ```$ exit```
 
-The shell supports most shell commands, such as `cat`, `pwd`, `ls` and lots more.
+The hsh shell supports most shell commands, such as `cat`, `pwd`, `ls` and lots more.
 
 ## Testing
-The shell works as the following in interactive mode:
+This shell works as the following in interactive mode:
 ```
 $ ./hsh
 ($) /bin/ls
